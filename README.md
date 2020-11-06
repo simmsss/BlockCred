@@ -86,7 +86,7 @@ Key frameworks: Ganache, Truffle, Node and Infura. The platform is completely wr
 
 #### Software
 
-* Google Chrome, Brave or any Ethereum-enable browser
+* Google Chrome, Brave or any Ethereum-enabled browser
 * Metamask Extension
 * nodeJS
 * Ganache Stand-alone application or Ganache CLI
